@@ -6,4 +6,4 @@ O objetivo deste projetoindividual é criar diagrama. Eu, decidi montar um proje
 - [Ramon Souza](https://github.com/ramonsolfer) -  Gestor de conhecimento
 
 
-- [img] (https://i.ibb.co/vjGh8Tf/Modelo-l-gico.png)
+![img] (https://i.ibb.co/vjGh8Tf/Modelo-l-gico.png)
